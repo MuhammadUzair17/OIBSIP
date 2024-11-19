@@ -1,4 +1,3 @@
-# OIBSIP
 # Retail Sales EDA with Python
 
 ## Overview
